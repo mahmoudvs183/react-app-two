@@ -1,0 +1,61 @@
+
+.nav{
+    color: #fefaf9;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav .logo{
+    height: 65px;
+    width: 100px;
+    text-align: center;
+    position: relative;
+    
+}
+.logo h1{
+    font-size: 45px;
+    color: white;
+    font-weight: 200;
+    letter-spacing: 3px;
+}
+.logo p{
+    line-height: .1;
+    font-size: 14px;
+    letter-spacing: 6px;
+    padding-left: 4px;
+    color: white;
+}
+
+
+.nav .links {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav .links a{
+    display: none;
+}
+.nav .links * {
+    margin-left: 20px;
+    color: #fefaf9;
+}
+.nav .bar-links{
+    display: flex;
+    color: black;
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+.nav .nav-buttoms{
+    display: none;
+}
+
+
+/*large*/
+@media (min-width:1200px) {
+    .nav .nav-buttoms,.nav .links a{
+        display: block;
+    }
+}
+
+
