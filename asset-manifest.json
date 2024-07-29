@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-app-two/static/css/main.c2e3efc8.css",
+    "main.js": "/react-app-two/static/js/main.6dfb1ac0.js",
+    "static/js/453.ed3810f9.chunk.js": "/react-app-two/static/js/453.ed3810f9.chunk.js",
+    "static/media/mountain.jpg": "/react-app-two/static/media/mountain.7d1ea432ce7a2d253ba3.jpg",
+    "index.html": "/react-app-two/index.html",
+    "main.c2e3efc8.css.map": "/react-app-two/static/css/main.c2e3efc8.css.map",
+    "main.6dfb1ac0.js.map": "/react-app-two/static/js/main.6dfb1ac0.js.map",
+    "453.ed3810f9.chunk.js.map": "/react-app-two/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2e3efc8.css",
+    "static/js/main.6dfb1ac0.js"
+  ]
+}
